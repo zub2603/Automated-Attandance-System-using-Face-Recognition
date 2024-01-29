@@ -1,0 +1,5 @@
+The requirements that this system mainly uses are XAMPP, Haar cascades, frontal classifiers, OpenCV, and Tkinter.
+1.	Hardware: a) Computer with a camera, b) Minimum 4GB RAM
+2.	Software: b) XAMPP, b) OpenCV, c) Python, d) mysql.connector library, e) Tkinter library
+3.	For Data Training, Face Detection and Face Recognition: CNN and Haar cascades frontal face classifier from OpenCV
+4.	Database: a) MySQL database, b) phpMyAdmin : to handle the administration of a MySQL.
