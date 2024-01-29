@@ -1,0 +1,11 @@
+Tools for development
+I. XAMPP 
+XAMPP is an open-source web server that helps developers create and test programmes on a local webserver. It is primarily comprised of the Apache HTTP Server, MariaDB, PHP, and Perl programming languages and is supported by a wide range of platforms. It offers a good environment for testing and confirming Apache, Perl, MySQL, and PHP-based applications.
+II. OpenCV
+OpenCV is a free computer vision and machine learning library that is licensed under Apache 2 to make it easier to incorporate artificial intelligence into commercial applications.
+III. Tkinter
+The default GUI library for Python is called Tkinter. The combination of Python and Tkinter makes it quick and simple to develop GUI apps. An effective object-oriented interface for the Tk GUI toolkit is provided by Tkinter. It's simple to build a GUI application using Tkinter.
+IV. phpMyAdmin
+PhpMyAdmin is a costless application developed in PHP language which is designed to manage the administration of a MySQL or MariaDB database server. With the use of PhpMyAdmin, one can perform various administrative tasks, such as generating a database, executing inquiries, and incorporating user accounts.
+V. MySQL	
+MySQL is a database management system. It is composed of a client/server architecture, comprising a multi-threaded SQL server that can handle various back ends, a diverse range of client programs and libraries, management tools, and multiple application-programming interfaces (APIs).
